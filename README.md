@@ -1,5 +1,6 @@
 # data-cleaning-task-1
 📌 Task 1: Data Cleaning and Preprocessing
+
 🎯 Objective
 The goal of this task is to clean and prepare a raw dataset by handling missing values, removing duplicates, fixing inconsistent formats, and correcting data types so that the data is ready for analysis.
 
